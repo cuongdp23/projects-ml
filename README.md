@@ -41,3 +41,5 @@ This repository contains a collection of machine learning mini projects develope
 - Jupyter Notebook, Google Colab
 
 ---
+
+⭐ This project was developed during my learning journey and reflects my ability to apply concepts into practice. It continues to be improved as I grow
